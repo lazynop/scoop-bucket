@@ -1,0 +1,15 @@
+{
+    "version": "0.4.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/lazynop/lazyenv/releases/download/v0.4.3/lazyenv_0.4.3_windows_amd64.zip",
+            "bin": [
+                "lazyenv.exe"
+            ],
+            "hash": "8445792424e59fae9d9141bf728624376ec0d49a4d7593348fe28b5b8ba63a30"
+        }
+    },
+    "homepage": "https://lazynop.github.io/lazyenv/",
+    "license": "MIT",
+    "description": "TUI for managing .env files"
+}
