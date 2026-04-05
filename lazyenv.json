@@ -1,12 +1,12 @@
 {
-    "version": "0.5.0",
+    "version": "0.5.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/lazynop/lazyenv/releases/download/v0.5.0/lazyenv_0.5.0_windows_amd64.zip",
+            "url": "https://github.com/lazynop/lazyenv/releases/download/v0.5.1/lazyenv_0.5.1_windows_amd64.zip",
             "bin": [
                 "lazyenv.exe"
             ],
-            "hash": "9c196015cc5150b327425ce9555dcc3a41d4d0f04e97e9345f11f94ffd153e37"
+            "hash": "df0403f7e2475cee70b6e2f960a58068831187f39ba694b0a5a0d3eeaae64b80"
         }
     },
     "homepage": "https://lazynop.github.io/lazyenv/",
